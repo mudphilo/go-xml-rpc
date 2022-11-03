@@ -2,8 +2,8 @@ package main
 
 import (
     "encoding/json"
-    "github.com/mudphilo/rpcxml"
-    "github.com/mudphilo/rpcxml/xml"
+    "github.com/mudphilo/go-xml-rpc"
+    "github.com/mudphilo/go-xml-rpc/xml"
     "log"
     "net/http"
 )

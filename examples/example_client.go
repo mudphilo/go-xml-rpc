@@ -1,7 +1,7 @@
 package main
 
 import (
-    "github.com/mudphilo/rpcxml/xml"
+    "github.com/mudphilo/go-xml-rpc/xml"
     "log"
     "bytes"
     "net/http"

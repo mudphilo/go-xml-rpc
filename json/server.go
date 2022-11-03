@@ -10,7 +10,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/mudphilo/rpcxml"
+	"github.com/mudphilo/go-xml-rpc"
 )
 
 var null = json.RawMessage([]byte("null"))

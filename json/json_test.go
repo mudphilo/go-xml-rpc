@@ -14,7 +14,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/mudphilo/rpcxml"
+	"github.com/mudphilo/go-xml-rpc"
 )
 
 var ErrResponseError = errors.New("response error")

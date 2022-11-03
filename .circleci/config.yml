@@ -6,7 +6,7 @@ jobs:
   "test": &test
     docker:
       - image: circleci/golang:latest
-    working_directory: /go/src/github.com/mudphilo/rpcxml
+    working_directory: /go/src/github.com/mudphilo/go-xml-rpc
     steps: &steps
       - checkout
       - run: go version

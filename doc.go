@@ -20,8 +20,8 @@ Let's setup a server and register a codec and service:
 
 	import (
 		"http"
-		"github.com/mudphilo/rpcxml"
-		"github.com/mudphilo/rpcxml/json"
+		"github.com/mudphilo/go-xml-rpc"
+		"github.com/mudphilo/go-xml-rpc/json"
 	)
 
 	func init() {

@@ -1,4 +1,4 @@
-module github.com/mudphilo/rpcxml
+module github.com/mudphilo/go-xml-rpc
 
 go 1.18
 

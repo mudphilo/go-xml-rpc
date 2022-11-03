@@ -7,7 +7,7 @@ package xml
 import (
 	"encoding/xml"
 	"fmt"
-	"github.com/mudphilo/rpcxml"
+	"github.com/mudphilo/go-xml-rpc"
 	"io/ioutil"
 	"net/http"
 )

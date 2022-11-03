@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/mudphilo/rpcxml"
+	"github.com/mudphilo/go-xml-rpc"
 )
 
 //////////////////////////////////

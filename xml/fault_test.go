@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mudphilo/rpcxml"
+	"github.com/mudphilo/go-xml-rpc"
 )
 
 //////////////////////////////////

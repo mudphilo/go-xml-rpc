@@ -10,8 +10,8 @@ To register the codec in a RPC server:
 
 	import (
 		"http"
-		"github.com/mudphilo/rpcxml"
-		"github.com/mudphilo/rpcxml/protorpc"
+		"github.com/mudphilo/go-xml-rpc"
+		"github.com/mudphilo/go-xml-rpc/protorpc"
 	)
 
 	func init() {
